@@ -1,37 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📌 **Resumen del proyecto**
+¿De qué consta?
 
-## Getting Started
+    Proyecto SOS es una web informativa desarrollada en grupo donde 
+    trabajamos los 4 principales retos ambientales a los que se enfrenta 
+    actualmente la sociedad.  
 
-First, run the development server:
+    Cada apartado analiza un reto específico y expone ejemplos reales 
+    junto con sus consecuencias, medidas aplicadas y críticas a las mismas.  
+    El objetivo fue crear una herramienta clara, educativa y accesible 
+    que fomente la concienciación medioambiental.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+¿Qué se analiza?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    - El impacto ambiental provocado por cada reto.  
+    - Las consecuencias sobre las personas y la actividad económica.  
+    - Las medidas y acciones tomadas (o previstas) para reducir dichos impactos.  
+    - Las principales críticas a estas medidas.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    Además, se valora la utilización de mapas interactivos para mostrar 
+    los efectos de los retos en diferentes zonas geográficas.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# ⚙️ **Tecnologías utilizadas**
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js  
+- Estructura responsive  
+- Mapas interactivos 
+- Git + GitHub para control de versiones  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+> [!IMPORTANT]  
+> Este proyecto forma parte de una práctica académica en grupo.  
+> Su finalidad es la investigación y divulgación de los principales
+> retos ambientales.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👥 Autores
+<p align="center">
+  <a href="https://github.com/morenomp">
+    <img src="https://github.com/morenomp.png" width="100px;" alt="morenomp"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mauroserralvodev">
+    <img src="https://github.com/mauroserralvodev.png" width="100px;" alt="mauroserralvodev"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AdrianPalmadev">
+    <img src="https://github.com/AdrianPalmadev.png" width="100px;" alt="AdrianPalmadev"/>
+  </a>
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# proyecto-sos
+<p align="center">
+  <a href="https://github.com/morenomp"><b>@morenomp</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mauroserralvodev"><b>@mauroserralvodev</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AdrianPalmadev"><b>@AdrianPalmadev</b></a>
+</p>
